@@ -103,7 +103,7 @@ const Navbar = () => {
             <Box css={{ width: 112, cursor: 'pointer' }}>
               {theme == 'dark' ? (
                 <Image
-                  src="/reservoirMarketLogo.svg"
+                  src="/swg.logo.svg"
                   width={112}
                   height={36}
                   alt="Reservoir"
