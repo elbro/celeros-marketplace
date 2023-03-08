@@ -29,11 +29,7 @@ class MyDocument extends Document {
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="keywords" content="nft, ethereum, protocol" />
-        <link
-          rel="shortcut icon"
-          type="image/svg"
-          href="https://marketplace.reservoir.tools/reservoir.svg"
-        />
+        <link rel="shortcut icon" type="image/svg" href="/favicon-32x32.png" />
         {/* CONFIGURABLE: You'll probably want to configure this all to have custom meta tags and title to fit your application */}
         <title>Reservoir Market | Open Source NFT Marketplace</title>
         <meta name="description" content={description} />
