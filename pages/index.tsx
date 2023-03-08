@@ -95,11 +95,12 @@ const IndexPage: NextPage<Props> = ({ ssr }) => {
             css={{ mx: 'auto', maxWidth: 728, pt: '$5', textAlign: 'center' }}
           >
             <Text style="h3" css={{ mb: 24 }}>
-              Open Source Marketplace
+              Celeros Marketplace
             </Text>
             <Text style="body1" css={{ mb: 48 }}>
-              Reservoir Marketplace is an open-source project that showcases the
-              latest and greatest features of the Reservoir Platform.
+              Celeros Market is an open-source project that showcases the latest
+              and greatest features of the Celeros Platform and Salt Water
+              Games.
             </Text>
             <a
               href="https://github.com/reservoirprotocol/marketplace-v2"
